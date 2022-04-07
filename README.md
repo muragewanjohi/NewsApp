@@ -1,5 +1,5 @@
 # NewsApp
-Android Kotlin News App
+Android Kotlin News App using NewsAPI.org
 
 Uses:
 - Retrofit
